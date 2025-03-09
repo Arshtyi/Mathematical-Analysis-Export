@@ -19,4 +19,5 @@
 
 # 联系我
 
-QQ : 640006128 或 3842004484.
+-   QQ : 640006128
+-   Email:arshtyi_trantor@outlook.com
