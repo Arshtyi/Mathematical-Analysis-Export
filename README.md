@@ -1,23 +1,21 @@
-# 项目简介
+<!-- @format -->
 
-这是作者自己的数学分析笔记, 主要参考教材为高等教育出版社《数学分析（第三版）》,
-欢迎任何有价值的问题探讨与交流.
+# Project Introduction
 
-作者全网名称一般是机笑或者 Arshtyi,同时欢迎作者的微信公众号：机笑理运.作者的常用
-联系方式包括 QQ:640006128.
+These are the author's personal notes on Mathematical Analysis, primarily referencing the textbook "Mathematical Analysis (Third Edition)" published by Higher Education Press.
+Valuable discussions and exchanges on any relevant topics are welcome.
 
-值得一提的是,作者并非数学系出身,同时由于个人能力问题,难免有谬误存在,这也欢迎大家
-的指正.另外,本文并不适合完全意义上的初学者使用,如果必要,可以参考其他资料进行理解
-.
+The author usually goes by the name Arshtyi. You are also welcome to follow the author's WeChat Official Account: 机笑理运 (Ji Xiao Li Yun).
 
-允许个人预习、复习等其他个人用途和相关转载但禁止未经我本人同意的商业相关用途.
+It is worth mentioning that the author is not from a mathematics background, and due to personal limitations, errors may inevitably exist. Corrections from everyone are welcome.
 
-# 更新
+Non-commercial reproduction or personal use is permitted, but commercial-related use is prohibited.
 
--   因为作者非数学系的原因,更新只能尽己所能.
--   本项目从 2025/3/3 开始使用 Github Actions 自动发布.
+# Publishing
 
-# 联系我
+This project uses Github Actions for automatic building and publishing.
 
--   QQ : 640006128
--   Email:arshtyi_trantor@outlook.com
+# Contact Me
+
+-   QQ: 640006128
+-   Email: arshtyi_trantor@outlook.com
